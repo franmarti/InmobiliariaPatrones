@@ -1,0 +1,4 @@
+1.	Refactorizar la parte del identificador a la hora de crear inmubles o visitas... 
+	de forma que se haga automática la inserción en la base de datos.
+
+2.	Patrón iterator en toda la capa presentación
